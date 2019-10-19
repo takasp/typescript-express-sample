@@ -1,4 +1,4 @@
-import {Request, Response} from "express";
+import { Request, Response } from 'express';
 
 const express = require('express');
 const index = express();
